@@ -20,6 +20,6 @@ The MNIST dataset is a modified version of the **NIST (National Institute of Sta
 
 ## Project Structure
 
-
-## Credits:
+---
+#### Credits:
 Chat GPT for providing debugging support as well as helping in restructuring the language used in this README document.
