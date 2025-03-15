@@ -1,4 +1,4 @@
-# MNIST Model Repository 📚🎯
+# MNIST Model Repository
 
 This repository contains various **Machine Learning (ML) and Deep Learning (DL) models** that can be used to classify handwritten digits from the **MNIST dataset**. The goal is to provide a collection of models ranging from basic ML classifiers to advanced deep learning architectures.
 
@@ -14,8 +14,12 @@ The MNIST dataset is a modified version of the **NIST (National Institute of Sta
 ### Machine Learning Models:
 
 
-### ✅ Deep Learning Models:
+### Deep Learning Models:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+
+
+## Credits:
+Chat GPT for providing debugging support as well as helping in restructuring the language used in this README document.
